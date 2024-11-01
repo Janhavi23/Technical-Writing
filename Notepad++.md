@@ -9,7 +9,7 @@ Let's get right into an example.
 
 The following text file contains a list of pipe seperated details of employee's of a company like the job role, position, department, etc:
 
-        Employee_Name|Employee_Number|Job|Grade|Location|Department
+    Employee_Name|Employee_Number|Job|Grade|Location|Department
     John Smith|1001|Software Engineer|G5|New York|IT
     Sophia Martinez|1002|DevOps Engineer|G5|Denver|IT
     Emily Chen|1003|System Administrator|G4|San Francisco|IT
@@ -35,3 +35,24 @@ Follow the below steps to achieve this in notepad++:
 
 1. Click on Ctrl + M, the mark window pop's open in notepad++:
    ![alt text](image.png)
+
+2. Enter the word you want to find and mark on your sheet in the **Find What** section and select the option of **Bookmark line**:
+   ![alt text](image-1.png)
+
+3. Next click on the **Mark All** button and you will notice the select lines getting highlighted on your page:
+   ![alt text](image-2.png)
+
+4.  Now navigate to the top menu bar and click on Search -> Bookmark -> Copy Bookmarked Lines:
+   ![alt text](image-3.png)
+
+Now you have the employee's in the Analytics department copied to your clipboard.
+
+>💡Bonus tip:
+You can do multiple operations on the marked lines using the Bookmark option in the *Search* like copy, cut, remove, etc. 
+List of options available:<br/> ![alt text](image-4.png)
+
+Feel free to explore all the options as an assignment to better understand this functionality.
+
+Happy learning!😊
+ 
+   
